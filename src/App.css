@@ -1,0 +1,33 @@
+
+body {
+  transition: background-color 0.3s;
+}
+
+.dark .bg-#ced8ff {
+  background-color: #1e1e1e;
+}
+
+.dark .bg-white {
+  background-color: #333;
+}
+
+
+.dark .text-black {
+  color: #ffffff;
+}
+
+.dark .text-white {
+  color: #000000;
+}
+
+.logo-placeholder {
+  position: absolute;
+  width: 800px; 
+  height: auto; 
+  display: block;
+  margin-top: 50%;
+  margin-left: 25%;
+  
+}
+
+
